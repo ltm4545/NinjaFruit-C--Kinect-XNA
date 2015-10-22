@@ -1,0 +1,17 @@
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear.xnb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_diffuse.xnb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_normal_map.xnb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_specular.xnb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_diffuse_0.xnb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\maps\pear_diffuse_0.xnb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\FruitNinja.exe
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\FruitNinja.pdb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Kinect.Toolbox.dll
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Microsoft.Kinect.Toolkit.FaceTracking.dll
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Kinect.Toolbox.pdb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\obj\x86\Debug\FruitNinja.exe
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\obj\x86\Debug\FruitNinja.pdb
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\obj\x86\Debug\FruitNinja.csprojResolveAssemblyReference.cache
+C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\knife.xnb

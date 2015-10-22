@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>pear.fbx</Source>
+      <Name>pear</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear.xnb</Output>
+      <Time>2015-02-04T19:05:22.8343106+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\pear_0.xml</Key>
+        <Value>2015-02-11T18:24:13.621874+08:00</Value>
+      </Dependency>
+      <Request>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_diffuse_0.xnb</Request>
+      <Request>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\maps\pear_diffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>pear_diffuse.jpg</Source>
+      <Name>pear_diffuse</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_diffuse.xnb</Output>
+      <Time>2015-02-04T18:48:03.5213093+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pear_normal_map.jpg</Source>
+      <Name>pear_normal_map</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_normal_map.xnb</Output>
+      <Time>2015-02-04T18:48:03.5213093+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pear_specular.jpg</Source>
+      <Name>pear_specular</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_specular.xnb</Output>
+      <Time>2015-02-04T18:48:03.5213093+08:00</Time>
+    </Item>
+    <Item>
+      <Source>pear.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\pear_0.xml</Output>
+      <Time>2015-02-04T19:05:22.8343106+08:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\sAka\AppData\Local\Temp\pear_diffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\pear_diffuse_0.xnb</Output>
+      <Time>2013-03-12T14:10:53.6221581+08:00</Time>
+    </Item>
+    <Item>
+      <Source>maps\pear_diffuse.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\maps\pear_diffuse_0.xnb</Output>
+      <Time>2013-03-12T14:10:53.6221581+08:00</Time>
+    </Item>
+    <Item>
+      <Source>knife.fbx</Source>
+      <Name>knife</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\knife.xnb</Output>
+      <Time>2015-02-25T22:31:50.1774991+08:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\knife_0.xml</Key>
+        <Value>2015-02-25T22:32:48.476985+08:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>knife.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\knife_0.xml</Output>
+      <Time>2015-02-25T22:31:50.1774991+08:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID Null="true" />
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinjaContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinjaContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\sAka\Desktop\Ninja\FruitNinja\FruitNinja\FruitNinja\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30+08:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-01-28T19:35:53.440146+08:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

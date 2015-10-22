@@ -1,0 +1,7 @@
+Content\pear.xnb
+Content\pear_diffuse.xnb
+Content\pear_normal_map.xnb
+Content\pear_specular.xnb
+Content\pear_diffuse_0.xnb
+Content\maps\pear_diffuse_0.xnb
+Content\knife.xnb
